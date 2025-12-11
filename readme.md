@@ -70,4 +70,4 @@ This initialization makes the **expected sum of gates per query ≈ 1** at the b
 
 ## Reference
 
-- [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](https://arxiv.org/abs/2409.04431)
+- [Theory, Analysis, and Best Practices for Sigmoid Self-Attention](https://arxiv.org/abs/2409.04431), Authors: Jason Ramapuram et al. (Apple)
